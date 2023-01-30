@@ -1,6 +1,6 @@
 package com.vv.vvclock;
 
-import com.vv.vvclock.ui.Clock;
+import com.vv.vvclock.Clock;
 
 public class ClockMain {
 
