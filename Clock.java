@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 
-import com.vv.vvclock.type.VVFrame;
+import com.vv.vvclock.VVFrame;
 
 public class Clock {
 	private VVFrame f;
