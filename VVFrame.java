@@ -1,4 +1,4 @@
-package com.vv.vvclock.type;
+package com.vv.vvclock;
 
 import java.awt.Color;
 import java.awt.Frame;
