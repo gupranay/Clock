@@ -1,4 +1,4 @@
-package com.vv.vvclock.type;
+package com.vv.vvclock;
 
 public class Point {
 	private int x;
